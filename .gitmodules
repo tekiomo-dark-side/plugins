@@ -1,0 +1,3 @@
+[submodule "franz-plugin-esa"]
+	path = franz-plugin-esa
+	url = https://github.com/upamune/franz-plugin-esa
