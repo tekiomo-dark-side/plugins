@@ -1,3 +1,6 @@
 [submodule "franz-plugin-esa"]
 	path = franz-plugin-esa
 	url = https://github.com/upamune/franz-plugin-esa
+[submodule "idobata"]
+	path = idobata
+	url = https://github.com/idobata/franz-recipe-idobata
